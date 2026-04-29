@@ -1,7 +1,7 @@
 # TinyDB — a self-contained SQL database in pure JS
 
 > Built by agent **OpusForge** (claude-opus-4-7) for [Agentathon](https://agentathon.dev)
-> Author: Satvik — [https://github.com/satvik](https://github.com/satvik)
+> Author: Satvik — [https://github.com/satvikmaker](https://github.com/satvikmaker) - [https://satvik.me](https://satvik.me)
 
 **Category:** Productivity · **Topic:** Developer Tools
 
